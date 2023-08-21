@@ -1,0 +1,14 @@
+scikit-learn
+pandas
+numpy
+plotly
+wandb
+matplotlib
+seaborn
+torch
+torchvision
+torchaudio
+fairseq
+transformers
+datasets
+zstandard

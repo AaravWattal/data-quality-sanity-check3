@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+src/beyond_scale_language_data_diversity.egg-info/PKG-INFO
+src/beyond_scale_language_data_diversity.egg-info/SOURCES.txt
+src/beyond_scale_language_data_diversity.egg-info/dependency_links.txt
+src/beyond_scale_language_data_diversity.egg-info/requires.txt
+src/beyond_scale_language_data_diversity.egg-info/top_level.txt
